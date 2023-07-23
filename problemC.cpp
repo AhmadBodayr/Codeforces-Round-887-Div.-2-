@@ -8,7 +8,8 @@ typedef unsigned long long ull;
 typedef long double ld;
 #define inf 1000000000000000005
 ///////////////////////////////
-ll t, n;
+ll t, n, k;
+vector<ll> v;
 
 int main() {
 	ios_base::sync_with_stdio(false);
